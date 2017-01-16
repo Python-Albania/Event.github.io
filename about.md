@@ -1,6 +1,6 @@
 ---
 layout: page
-navigation_title: Home
+navigation_title: "Home"
 title: About Python Albania
 permalink: "https://python-albania.github.io/""
 ---
