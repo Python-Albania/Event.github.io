@@ -1,8 +1,8 @@
 ---
 layout: page
-navigation_title: "Home"
+navigation_title: Home
 title: About Python Albania
-permalink: "https://python-albania.github.io/""
+permalink: https://python-albania.github.io/
 ---
 
 [Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
